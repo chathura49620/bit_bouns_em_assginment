@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50528794709",
+    "project_id": "gamingapplicationauth",
+    "storage_bucket": "gamingapplicationauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50528794709:android:8701548c374f99dcb4bcdc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gaming_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVTHZoC2H9iyM7w_l9cyDjadKKWdHUhRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
